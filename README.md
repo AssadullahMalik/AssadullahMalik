@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AssadullahMalik
-- 👀 I’m interested in ..DATA SCIENCE.
+- 👀 I’m interested in ..DATA SCIENCE, MACHINE LEARNING
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
